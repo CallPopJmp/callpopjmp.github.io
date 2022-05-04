@@ -41,7 +41,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Dan
-  email: dan@callpopjmp.com.com             # change to your email address
+  email: dan@callpopjmp.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/callpopjmp      # change to your twitter homepage
